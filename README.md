@@ -38,4 +38,4 @@ From: ![jadi youtube](https://www.youtube.com/watch?v=vWvGNzjHH10)
 #### If your 80 port or any port banned by yout firewall you can get access to the special port by this command line
 ``` firewall-cmd --zone-public --add-port-8880/tcp ```
 
-#### With some sites like dynamicdns and etc you can map your ip address to url link ( 178.252.130.42 ----> www.sheracore.com)
+#### With some sites like dynamicdns and etc you can map your ip address to url link (i.e 178.252.130.42 : www.sheracore.com)
