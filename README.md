@@ -23,6 +23,7 @@ From: ![jadi youtube](https://www.youtube.com/watch?v=vWvGNzjHH10)
 ![GitHub Logo](/images/webserver_3.png)
 From: ![jadi youtube](https://www.youtube.com/watch?v=vWvGNzjHH10)
 
+#### With some sites like dynamicdns and etc you can map your ip address to url link ( 178.252.130.42 ----> www.sheracore.com)
 ![GitHub Logo](/images/webserver_4.png)
 From: ![jadi youtube](https://www.youtube.com/watch?v=vWvGNzjHH10)
 
