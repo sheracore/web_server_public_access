@@ -2,7 +2,16 @@
 ### Command lines in your server(laptop)
 #### We can user nginx or apache server
 ![GitHub Logo](/images/webserver_1.png)
-Format: ![Alt Text](url)
+From: ![jadi youtube](https://www.youtube.com/watch?v=vWvGNzjHH10)
+
+![GitHub Logo](/images/webserver_2.png)
+From: ![jadi youtube](https://www.youtube.com/watch?v=vWvGNzjHH10)
+
+![GitHub Logo](/images/webserver_3.png)
+From: ![jadi youtube](https://www.youtube.com/watch?v=vWvGNzjHH10)
+
+![GitHub Logo](/images/webserver_4.png)
+From: ![jadi youtube](https://www.youtube.com/watch?v=vWvGNzjHH10)
 
 #### sudo apt install nginx
 #### This command line show us our port and the listen ones
