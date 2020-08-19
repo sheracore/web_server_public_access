@@ -1,6 +1,9 @@
 # web_server_public_access
 ### Command lines in your server(laptop)
 #### We can user nginx or apache server
+![GitHub Logo](/images/webserver_1.png)
+Format: ![Alt Text](url)
+
 #### sudo apt install nginx
 #### This command line show us our port and the listen ones
 ``` netstat -na (get all ports)```
